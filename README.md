@@ -11,3 +11,10 @@ Objetivo foi estudar transmissão AM, explorando operações de modulação e de
 Objetivo foi criar um simulador para notas musicais, no caso, notas de um violão, utilizando o sistema descrito por K. Karplus e A. Strong.
 
 ## Experimento 4
+Objetivo foi a simulação de sistemas dinâmicos a partir de equações diferenciais e equações de estado.
+
+## Experimento 5
+Objetivo foi a identificação de parâmetros físicos de um sistema massa-mola amortecedor, por meio da análise da resposta à uma condição inicial, utilizando o software de simulação robótica VREP, comandado a partir do MATLAB.
+
+## Experimento 6
+Objetivo a identificação de parâmetros físicos de um sistema massa-mola amortecedor, por meio da análise da resposta em frequência do sistema, utilizando o software de simulação robótica VREP, comandado a partir do MATLAB.
